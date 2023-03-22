@@ -1,5 +1,4 @@
 import { Fragment } from "react";
-
 import HeaderCartButton from "./HeaderCartButton";
 import JMeals from '../../assets/meals.jpg';
 import classes from './Header.module.css';
@@ -8,7 +7,7 @@ const Header = (props) => {
     return (
     <Fragment>
         <header className={classes.header}>
-            <h1>JMeals</h1>
+            <h1>Jerry SteakHouse</h1>
             <HeaderCartButton onClick={props.onShowCart} />
         </header>
         <div className={classes['main-image']}>
