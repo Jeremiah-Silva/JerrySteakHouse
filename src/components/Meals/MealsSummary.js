@@ -3,14 +3,14 @@ import classes from './MealsSummary.module.css';
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-      <h2>Delicious Food, Delivered To You</h2>
+      <h2>Prime-grade barbecue!</h2>
       <p>
-        Choose your favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner at home.
+        We prepare for you the best cuts of meat, seasoned and grilled to perfection 
+        for an explosion of flavor with every bite. 
       </p>
       <p>
-        All our meals are cooked with high-quality ingredients, just-in-time and
-        of course by experienced chefs!
+        All this in a sophisticated and cozy environment. 
+        Come to Jerry Steakhouse now and discover what a truly mouth-watering experience is!
       </p>
     </section>
   );
