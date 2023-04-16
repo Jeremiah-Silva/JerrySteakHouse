@@ -4,6 +4,6 @@ To create this platform, I used React.js technology, which allowed me to develop
 
 The end result was incredible! With a well-structured menu, clearly defined categories, and easy and intuitive navigation, the platform is top-notch. And it's possible to access all the information about the restaurant's menu in one place!
 
-So, if you're a fan of a good steakhouse, don't waste any more time and check out the Jerry SteakHouse project at https://web-food.vercel.app/. I'm sure you won't regret it and you'll be surprised by the end result!
+So, if you're a fan of a good steakhouse, don't waste any more time and check out the Jerry SteakHouse project at https://jerry-steak-house.vercel.app/. I'm sure you won't regret it and you'll be surprised by the end result!
 
 ![JerrySteakHouse](https://user-images.githubusercontent.com/108309798/227306297-88d7a627-0694-4beb-b69a-ce19440ae0a4.jpg)
