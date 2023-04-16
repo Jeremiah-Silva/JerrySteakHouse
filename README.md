@@ -1,4 +1,4 @@
-<a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" target="_blank"><a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" target="_blank"></a></a><br></br>
+#<a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" target="_blank"><a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" target="_blank"></a></a><br></br>
 
 Hi everyone! I created a sensational project about Jerry SteakHouse and I'm very excited to share it with you! My goal was to create an online platform that was easy and intuitive for users to access information about the menu.
 
@@ -8,4 +8,4 @@ The end result was incredible! With a well-structured menu, clearly defined cate
 
 So, if you're a fan of a good steakhouse, don't waste any more time and check out the Jerry SteakHouse project at https://jerry-steak-house.vercel.app/. I'm sure you won't regret it and you'll be surprised by the end result!
 
-![JerrySteakHouse](https://user-images.githubusercontent.com/108309798/227306297-88d7a627-0694-4beb-b69a-ce19440ae0a4.jpg)
+#![JerrySteakHouse](https://user-images.githubusercontent.com/108309798/227306297-88d7a627-0694-4beb-b69a-ce19440ae0a4.jpg)
